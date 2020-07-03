@@ -6,4 +6,4 @@ Tetris Game 사용법
  
  (위 2,3번의 절차는 github의 zipdownload를 이용하면 한 번에 해결할 수 있습니다.)
  
- 4. visual studio code와 같은 에디터를 통하여 사운드가 들어있는 폴더 player.py파일을 실행하면 게임이 실행됩니다.
+ 4. visual studio code와 같은 에디터를 통하여 사운드가 함께 들어있는 폴더안의 player.py파일을 실행하면 게임이 실행됩니다.
